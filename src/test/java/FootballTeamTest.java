@@ -84,3 +84,5 @@ public class FootballTeamTest {
                 team1.compareTo(team2) == 0);
     }
 }
+
+// I added this comment to practice git commits
